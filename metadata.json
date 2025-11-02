@@ -1,0 +1,5 @@
+{
+  "name": "Bill's Voice TTS",
+  "description": "A Text-to-Speech application that converts your text into audio using Gemini, featuring a deep male voice.",
+  "requestFramePermissions": []
+}
